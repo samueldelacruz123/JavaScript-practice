@@ -1,0 +1,13 @@
+header {
+    color: blue;
+    font-size: large;
+    font-weight: 100;
+}
+
+button {
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 12px 24px;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
