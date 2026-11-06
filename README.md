@@ -32,3 +32,7 @@ JavaScript Library - Loadash
 Wikipedia about JavaScript- https://en.wikipedia.org/wiki/JavaScript
 
 Loadash Documentation - https://lodash.com/docs/4.18.1
+
+# Future Work
+
+incorporate all of the things I've learned in JavaScript and turn it into a simple webpage
