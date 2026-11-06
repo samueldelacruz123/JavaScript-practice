@@ -17,7 +17,7 @@ Demonstrate throwing and handling exceptions
 
 Create DOM structures with CSS (if using browser), or use 2 more npm packages if using Node.js.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/vhXQ3janXdM)
 
 # Development Environment
 
